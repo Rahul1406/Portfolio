@@ -4,7 +4,7 @@ Hi, I am Rohit. Passionate and driven, I am on track to completing my degree in 
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends and engaging in diverse projects such as Instagram user analytics, hiring analytics, Medical Data visualizer, Sea Level Predictor, and many more. I honed my expertise in extracting insights from complex datasets using tools like Python, SQL, Microsoft Excel, Tableau, NumPy, Pandas, Matplotlib, Scipy and Seaborn. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
-I enjoy exploring new data analysis tools and techniques in my free time, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems
+I enjoy exploring new data analysis tools and techniques in my free time, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 Beyond data, I seek solace in activities like reading books and drawing. I believe that success comes with balance, and these activities allow me to step back, relax, and return to my work with a clear mind and fresh perspective.
 
@@ -44,9 +44,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implementing Pearson’s correlation statistical analysis.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data cleaning, data analysis, correlation matrices, hypothesis testing, and data visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
@@ -71,14 +71,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/Rahul1406/Portfolio-Project/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type, and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), and analyzing characteristics of different Pokémon.
 
-**Skills:** data cleaning, data analysis, data visualization.
+**Skills:** Data cleaning, data analysis, data visualization.
 
 **Technology:** Tidyverse 
 
 ## Education
-**G. B. Pant Insitute of Engineering & Technology, Pauri Garhwal Uttarkhand**
+**G. B. Pant Insitute of Engineering & Technology, Pauri Garhwal Uttarakhand**
 
 Bachelor of Technology - Electronics & Communication Engineering
 
