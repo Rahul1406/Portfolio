@@ -87,4 +87,4 @@ Dec 2020 - Jun 2024
 
 ## Contacts
 - LinkedIn: [@rohitbahuguna](https://www.linkedin.com/in/rohitbahuguna14)
-- Email: rohitbahuguna14@gmail.com
+- Email: rohitbahuguna1406@gmail.com
