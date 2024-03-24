@@ -34,7 +34,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
 
 
 - [Education]( https://github.com/Rahul1406/Portfolio/blob/main/README.md#Education)  
-- [Contact](https://github.com/Rahul1406/Portfolio/blob/main/README.md#Contacts))
+- [Contact](https://github.com/Rahul1406/Portfolio/blob/main/README.md#Contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
