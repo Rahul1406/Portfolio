@@ -28,7 +28,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
   - R
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/Rahul1406/Legendary-Pokemon-Analysis)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/rohit.bahuguna8622/vizzes)
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/rohit.bahuguna/vizzes)
   - Power BI
   
 
