@@ -77,6 +77,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Tidyverse 
 
+### Airbnb Listing 2016 Tableau Dashboard
+[**Dashboard Link**](https://public.tableau.com/app/profile/rohit.bahuguna/viz/Airbnb_Listing_2016/Dashboard1)
+
+**Description:**  Ingested this data in MySQL database and performed ETL to remove outliers, clean up bad records, and normalize prices to a standard format.
+I used Tableau to build various BI dashboards that show price growth in different hotels based on region and demography, and how people’s preferences have changed throughout 2016.
+
+**Skills:** Data wrangling, Data analysis, Data visualization.
+
+**Technology:** Tableau Public
+
 ## Education
 **G. B. Pant Insitute of Engineering & Technology, Pauri Garhwal Uttarakhand**
 
