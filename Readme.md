@@ -1,8 +1,8 @@
 # Rohit Bahuguna - Data Analyst Portfolio
 ## About
-Hi, I am Rohit. Passionate and driven, I am on track to completing my degree in Electronics and Communication (B. Tech). I have developed a strong foundation in Technology and a passion for using data to uncover meaningful insights. I have always been captivated by patterns and the stories hidden within data. From my childhood days of deciphering cloud shapes to my academic journey culminating in a degree in engineering, my fascination with numerical & statistical calculation has evolved into a deep-seated passion for data analysis.
+Hi, I am Rohit. Passionate and driven, I am on track to completing my  Engineering degree. I have developed a strong foundation in Technology and a passion for using data to uncover meaningful insights. I have always been captivated by patterns and the stories hidden within data. From my childhood days of deciphering cloud shapes to my academic journey culminating in a degree in engineering, my fascination with numerical & statistical calculation has evolved into a deep-seated passion for data analysis.
 
-During my studies, I honed my ability to work with complex data. I developed a keen eye for identifying patterns and trends and engaging in diverse projects such as Instagram user analytics, hiring analytics, Medical Data visualizer, Sea Level Predictor, and many more. I honed my expertise in extracting insights from complex datasets using tools like Python, SQL, Microsoft Excel, Tableau, NumPy, Pandas, Matplotlib, Scipy, and Seaborn. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+During my studies, I honed my ability to work with complex data. I developed a keen eye for identifying patterns and trends and engaging in diverse projects such as Instagram user analytics, hiring analytics, Medical Data visualizer, Sea Level Predictor, etc. I honed my expertise in extracting insights from complex datasets using tools like Python, SQL, Microsoft Excel, Tableau, NumPy, Pandas, Matplotlib, Scipy, and Seaborn. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
 I enjoy exploring new data analysis tools and techniques in my free time and always look for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
@@ -10,7 +10,7 @@ Beyond data, I seek solace in activities like reading books and drawing. I belie
 
 I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
 
-My CV is in [pdf](https://github.com/Rahul1406/Portfolio/blob/main/Rohit%20%20Resume.pdf).
+My CV is in [pdf](https://github.com/rohitb1406/Portfolio/edit/main/Readme.md).
 
 This repository showcases skills, shares projects, and tracks my progress in Data Analytics / Data science-related topics.
 
@@ -37,7 +37,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
 - [Contact](https://github.com/Rahul1406/Portfolio/blob/main/README.md#Contacts)
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing the Factors Contributing to the Success of a Movie
 **Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/Rahul1406/Portfolio-Project/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
