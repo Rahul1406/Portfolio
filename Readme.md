@@ -15,8 +15,8 @@ My CV is in [pdf](https://github.com/rohitb1406/Portfolio/edit/main/Readme.md).
 This repository showcases skills, shares projects, and tracks my progress in Data Analytics / Data science-related topics.
 
 ## Table of Contents
-- [About](https://github.com/rohit1406/Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/rohit1406/Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/rohitb1406/Portfolio/blob/main/Readme.md#about)
+- Portfolio Projects
   - JavaScript Projects
     - [Todo List](https://github.com/rohitb1406/JavaScript-Projects/tree/main/Todo%20List)
     - [Glassmorphic Profile card](https://github.com/rohitb1406/JavaScript-Projects/tree/main/Glassmorphism%20Profile%20Card)
@@ -35,7 +35,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
   
 
 
-- [Education]( https://github.com/rohit1406/Portfolio/blob/main/README.md#Education)  
+- [Education](https://github.com/rohitb1406/Portfolio/edit/main/Readme.md#education)  
 - [Contact](https://github.com/rohit1406/Portfolio/blob/main/README.md#Contacts)
 
 ## Portfolio Projects
