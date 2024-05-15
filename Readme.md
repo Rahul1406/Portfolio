@@ -35,8 +35,8 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
   
 
 
-- [Education](https://github.com/rohitb1406/Portfolio/edit/main/Readme.md#education)  
-- [Contact](https://github.com/rohit1406/Portfolio/blob/main/README.md#Contacts)
+- [Education](https://github.com/rohitb1406/Portfolio?tab=readme-ov-file#education)  
+- [Contact](https://github.com/rohitb1406/Portfolio?tab=readme-ov-file#contacts)
 
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
