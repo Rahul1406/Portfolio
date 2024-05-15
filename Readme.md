@@ -15,26 +15,28 @@ My CV is in [pdf](https://github.com/rohitb1406/Portfolio/edit/main/Readme.md).
 This repository showcases skills, shares projects, and tracks my progress in Data Analytics / Data science-related topics.
 
 ## Table of Contents
-- [About](https://github.com/Rahul1406/Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/Rahul1406/Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/rohit1406/Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/rohit1406/Portfolio/blob/main/README.md#portfolio-projects)
+  - JavaScript Projects
+    - [Todo List](https://github.com/rohitb1406/JavaScript-Projects/tree/main/Todo%20List)
+    - [Glassmorphic Profile card](https://github.com/rohitb1406/JavaScript-Projects/tree/main/Glassmorphism%20Profile%20Card)
   - Python
-    - [Demographic Data Analyzer](https://github.com/Rahul1406/Demographic-Data-Analyser)
-    - [Sea Level Predictor](https://github.com/Rahul1406/Sea-Level-Predictor)
-    - [Digital Clock using Python](https://github.com/Rahul1406/Digital-Clock)
+    - [Rock Paper Scissor Game](https://github.com/rohitb1406/Python-Project/tree/main/Rock%20Paper%20Scissors%20Game)   
+    - [Demographic Data Analyzer](https://github.com/rohitb1406/Python-Project/tree/main/boilerplate-demographic-data-analyzer-2)
+    - [Sea Level Predictor](https://github.com/rohitb1406/Python-Project/tree/main/Sea%20Level%20Predictor)
+    - [Digital Clock using Python](https://github.com/rohitb1406/Python-Project/tree/main/Digital%20Clock)
   - SQL
-    - [Instagram User Analytics](https://github.com/Rahul1406/SQL-Projects/tree/main/instagram%20user%20analytics(Task-2))
-    - [Hiring Analytics](https://github.com/Rahul1406/SQL-Projects/tree/main/hiring%20analytics%20(Task-4))
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/Rahul1406/Legendary-Pokemon-Analysis)
+    - [Instagram User Analytics](https://github.com/rohit1406/SQL-Projects/tree/main/instagram%20user%20analytics(Task-2))
+    - [Hiring Analytics](https://github.com/rohit1406/SQL-Projects/tree/main/hiring%20analytics%20(Task-4))
+
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/rohit.bahuguna/vizzes)
   - Power BI
   
 
 
-- [Education]( https://github.com/Rahul1406/Portfolio/blob/main/README.md#Education)  
-- [Contact](https://github.com/Rahul1406/Portfolio/blob/main/README.md#Contacts)
+- [Education]( https://github.com/rohit1406/Portfolio/blob/main/README.md#Education)  
+- [Contact](https://github.com/rohit1406/Portfolio/blob/main/README.md#Contacts)
 
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
