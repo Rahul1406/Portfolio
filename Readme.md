@@ -50,7 +50,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Skills:** SQL Querying, Database Design, Data Manipulation, Exploratory Data Analysis (EDA).
 
-**Technology:** SQL.
+**Technology:** SQL Workbench.
 
 ### Nashville Housing Data Cleaning
 **Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/Rahul1406/Portfolio-Project/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)
