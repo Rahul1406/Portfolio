@@ -41,20 +41,16 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/Rahul1406/Portfolio-Project/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### Online Retail Application Database
+**Code:** [Online Retail Application Database.sql](https://github.com/rohitb1406/SQL-Projects/tree/main/Online%20Retail%20Application%20database)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** To design a database system for an e-commerce application.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implementing Pearson’s correlation statistical analysis.
+**Description:** The project's primary goal was to establish a database for online retail applications. Using SQL queries, we developed tables for customers, products, orders, and order items to store retail data. The project encompassed tasks such as database creation, insertion of various table values, and deletion of unnecessary data through DDL, DML, and DCL commands. This enabled us to conduct exploratory data analysis (EDA), examining correlations between orders Vs customer relations and order vs. product relations.
 
-**Skills:** Data cleaning, data analysis, correlation matrices, hypothesis testing, and data visualization.
+**Skills:** SQL Querying, Database Design, Data Manipulation, Exploratory Data Analysis (EDA).
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
-
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
-
-
+**Technology:** SQL.
 
 ### Nashville Housing Data Cleaning
 **Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/Rahul1406/Portfolio-Project/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)
