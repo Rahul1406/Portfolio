@@ -66,17 +66,17 @@ In this section, I will list data analytics projects briefly describing the tech
 **Technology:** SQL Workbench
 
 
-### Legendary Pokémon Analysis
+### Demographic Data Analyzer
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+**Goal:** The designed project aims to analyze demographic data from a dataset.
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/Rahul1406/Portfolio-Project/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+[**Code Link**](https://github.com/rohitb1406/Python-Project/blob/main/boilerplate-demographic-data-analyzer-2/README.md)
 
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type, and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), and analyzing characteristics of different Pokémon.
+**Description:** The Demographic Data Analyzer is a Python project designed to analyze demographic data from a dataset. It utilizes the Pandas library for data manipulation and analysis. The project aims to answer various questions about the demographic characteristics of individuals, such as race distribution, average age, educational attainment, and income level.
 
-**Skills:** Data cleaning, data analysis, data visualization.
+**Skills:** Python, Pandas, and data analysis.
 
-**Technology:** Tidyverse 
+**Technology:** Visual Studio Code.
 
 ### Airbnb Listing 2016 Tableau Dashboard
 [**Dashboard Link**](https://public.tableau.com/app/profile/rohit.bahuguna/viz/Airbnb_Listing_2016/Dashboard1)
