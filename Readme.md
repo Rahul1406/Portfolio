@@ -47,9 +47,9 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Goal:** To design a database system for an e-commerce application.
 
-**Description:** The project's primary goal was to establish a database for online retail applications. Using SQL queries, we developed tables for customers, products, orders, and order items to store retail data. The project encompassed tasks such as database creation, insertion of various table values, and deletion of unnecessary data through DDL, DML, and DCL commands. This enabled us to conduct exploratory data analysis (EDA), examining correlations between orders Vs customer relations and order vs. product relations.
+**Description:** The project's primary goal was to establish a database for online retail applications. Using SQL queries, we developed tables for customers, products, orders, and order items to store retail data. The project encompassed tasks such as database creation, insertion of various table values, and deletion of unnecessary data through DDL, DML, and DCL commands. This enabled us to design databases and create schemas.
 
-**Skills:** SQL Querying, Database Design, Data Manipulation, Exploratory Data Analysis (EDA).
+**Skills:** SQL Querying, Database Design, and Data Manipulation.
 
 **Technology:** SQL Workbench.
 
@@ -95,7 +95,11 @@ Bachelor of Technology - Electronics & Communication Engineering
 
 Dec 2020 - Jun 2024
 
+## Certificates
+  - Data Visualization using D3 and AJAX [(freeCodeCamp)](https://www.freecodecamp.org/certification/rohitbahuguna14/data-visualization)
+  - Data Analysis with Python [(freeCodeCamp)](https://www.freecodecamp.org/certification/rohitbahuguna14/data-analysis-with-python-v7)
+  - SQL Intermediate Certificate [(HackerRank)](https://www.hackerrank.com/certificates/6314db17cdce)
 
 ## Contacts
-- LinkedIn: [@rohitbahuguna](https://www.linkedin.com/in/rohitbahuguna14)
-- Email: rohitbahuguna1406@gmail.com
+- **LinkedIn**: [@rohitbahuguna](https://www.linkedin.com/in/rohitbahuguna14)
+- **Email**: rohitbahuguna1406@gmail.com
