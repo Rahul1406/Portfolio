@@ -35,7 +35,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
   - Power BI
   
 
-
+- [Certificates](https://github.com/rohitb1406/Portfolio?tab=readme-ov-file#Certificates)
 - [Education](https://github.com/rohitb1406/Portfolio?tab=readme-ov-file#education)  
 - [Contact](https://github.com/rohitb1406/Portfolio?tab=readme-ov-file#contacts)
 
