@@ -26,6 +26,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
     - [Sea Level Predictor](https://github.com/rohitb1406/Python-Project/tree/main/Sea%20Level%20Predictor)
     - [Digital Clock using Python](https://github.com/rohitb1406/Python-Project/tree/main/Digital%20Clock)
   - SQL
+    - [International Debt Analysis](https://github.com/rohitb1406/SQL-Projects/tree/main/International%20Debt)
     - [Instagram User Analytics](https://github.com/rohit1406/SQL-Projects/tree/main/instagram%20user%20analytics(Task-2))
     - [Hiring Analytics](https://github.com/rohit1406/SQL-Projects/tree/main/hiring%20analytics%20(Task-4))
 
@@ -52,15 +53,17 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Technology:** SQL Workbench.
 
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/Rahul1406/Portfolio-Project/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)
+### International Debt Analysis
+**Goal:** To draw insights from the international debt dataset.
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+[**Insights**](https://github.com/rohitb1406/SQL-Projects/tree/main/International%20Debt)
+
+**Description:** In this project, we have analyzed the international debt data collected by the World Bank using SQL in SQL Workbench. The dataset encompasses information about the amount of debt (in USD) owed by developing countries across various categories. Our objective is to derive meaningful insights from this data by answering key questions related to total debt, debt distribution among countries, and average debt across different indicators.
 
 
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+**Skills:** Data Loading, SQL Querying, Database Design, and Exploratory Data Analysis.
 
-**Technology:** SQL Server
+**Technology:** SQL Workbench
 
 
 ### Legendary Pokémon Analysis
